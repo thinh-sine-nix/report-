@@ -90,17 +90,18 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/282758337_599843601208234_1411558220165391193_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ZgvzcmaWaaMAX-F03dq&tn=g8kKPy0vG35jwiCA&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJD0OLTxk0TXVjyBJnMNW85JvsSrVdGNMNQ5kH2jrfG9w&oe=62C41AE9)
 ### Sequence Diagram
-#### Login
 
-![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/281319895_707342033717169_7164381762430633547_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=LjJUBcLXbEYAX8Yrc_G&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVID2Q7AjQ_p-A7VpT8VB4a1F6kTsAcFn4GheYHuA2RqRw&oe=62C6056C)
+#### Login account
 
-#### Search Product
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/285848250_1180731692721613_3836666422151679786_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=LTLR4KJGFHcAX-cFjDa&tn=g8kKPy0vG35jwiCA&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVIWJPv8bviDMPSV_8fcVICCxfkvKreB4PPi3ZgPjbilFw&oe=62C444D9)
 
-![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/280563617_833973524241226_6038867098382217189_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=GfVDHgYuhigAX-vazCh&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJqeFqxfcLW2Nd0fTWGoCA10whLVEazGHvG5CYrk0m32g&oe=62C6B240)
+#### View Product
 
-#### Add product to cart
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/281136825_1139622296613550_982592188135372210_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ifuNk7O4iyQAX9dZqyJ&_nc_oc=AQmixcOurFzXeafDEaCkWqi7xrFNtEW3o6lFqD8ZfPLYR6T4QrC3i687EAP8Rml-cYF_HfxLrNC4u722_9z7unwm&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVKpbd3znb5Pqblbe_pcLhG5J2e7KeNNUVSvxn4PJQLNeQ&oe=62C538AC)
 
-![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/284584551_702080657678864_2397706853219855142_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=nX2BPB0po1sAX8tGIEm&_nc_oc=AQnDJDTISTF3isj8Ezs1PTkcWNjaHepsxOrRzdcjitipA6JP_7QK7XfV1Dank1PxtmIXSF0A4G5MbrfZa_rNlVdK&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVKmLyDS7M6yzWaHgB7bzron04BSnTSSny-ySL-vOM3OZA&oe=62C3D9E5)
+#### Buying product
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/285077802_559064455773150_2183041147934507601_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dXq2Ykd_eIYAX_3GLWj&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJ6d3SCWjuEBqdJIiZ6YYND_lVbaspR3COq6HJNNnr_0A&oe=62C38F4A)
 
 #### Confirm order
 
