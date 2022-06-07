@@ -67,7 +67,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## 2 : Discuss about your technology stack selection (language/library/framework)
 
-- Reactjs
+- Reactjs 
 
 - Nodejs
 
