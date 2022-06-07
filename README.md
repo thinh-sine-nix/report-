@@ -1,12 +1,12 @@
 # Report
 
-# 1 : Introduction
-## Team member
+## 1 : Introduction
+### Team member
 - Nguyễn Thanh Long - ITITWE18034
 - Nguyễn Thanh Thanh Tùng – ITITIU19236
 - Đinh Nho Phú Thịnh – ITITIU19216
 
-## Topic : COMMERCIAL WEB APP
+### Topic : COMMERCIAL WEB APP
 - A web application that helps users electronically buy or sell goods over the internet is called an e-commerce web app. 
 - Payment integration and transaction integration are essential parts of e-commerce web apps. 
 - E-commerce draws on technologies like electronic funds, inventory management systems, mobile commerce, internet market, and supply chain management.
@@ -17,15 +17,15 @@
 
 ![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/282338661_3293016664313085_5677063540372904293_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gOnbMWQ8kbkAX-u8nIW&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVLUISnSRYnGO4sy68HpOYu_QKiAEasPMrshwCoXbNUOXw&oe=62C3A2A1)
 
-## Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -33,12 +33,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -48,7 +48,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+#### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -59,30 +59,30 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 
-## Motivation or why this topic
-## Task allocation for each team member.
+### Motivation or why this topic
+### Task allocation for each team member.
 
-# 2 : Discuss about your technology stack selection (language/library/framework)
+## 2 : Discuss about your technology stack selection (language/library/framework)
 
-# 3 : Show all required diagrams and explain them.
+## 3 : Show all required diagrams and explain them.
 
-# 4 : Show your github project page
-## README (the report)
+## 4 : Show your github project page
+### README (the report)
 
-## Team Commits in github
+### Team Commits in github
 
-# 5 : Feature
+## 5 : Feature
 
-## Which features are completed
+### Which features are completed
 
-## Which features are incompleted
+### Which features are incompleted
 
-## Future features if you want to developer further after the course
+### Future features if you want to developer further after the course
 
-# 6 : Discuss challenges in the project.
+## 6 : Discuss challenges in the project.
 
-# 7 : Result and Conclusion
-## Screenshots/Videos/GIF of your topic to showcase all features.
+## 7 : Result and Conclusion
+### Screenshots/Videos/GIF of your topic to showcase all features.
 
-# 8 : What have you learned?
+## 8 : What have you learned?
 
