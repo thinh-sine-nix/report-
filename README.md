@@ -117,7 +117,20 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Class Diagram
 
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/280756930_1309417346248756_1614636446602229793_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=szxBWsqq130AX82HC2W&tn=g8kKPy0vG35jwiCA&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJAyNKk-RSEhDx11TxILgT0tU3VdUpZDlt9RBohJgzwRQ&oe=62C65669)
+
 ### Activity Diagram
+
+#### Login 
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/285272326_414189597267024_375876627830499809_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=DkTcsdzHM-EAX82K29x&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVK3PV3FuigMBFChdU6zL-N-ePdFbpT0TsMQL74RbF7n-w&oe=62C49ED9)
+
+#### Search product
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/284159645_553234212841829_6354304154514760004_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=0N5xDFyzYxoAX8WSrK1&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJANC4QdVHRiD1CIcwhtrKsLszBJdf8eTgSm9Xfad0-wA&oe=62C32250)
+#### Buy product
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/280740048_5259608600761136_1671247284896220753_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XnfpDQTOhNQAX8fIGC0&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVLYXAVn6D9SrZx4N8uyEgfkCFAqxWNTMB8cmF1cMHpazg&oe=62C413B6)
 
 ## 4 : Show your github project page
 ### README (the report)
