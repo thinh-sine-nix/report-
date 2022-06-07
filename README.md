@@ -67,11 +67,11 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## 2 : Discuss about your technology stack selection (language/library/framework)
 
-- Reactjs 
+- ### Reactjs 
 
-- Nodejs
+- ### Nodejs
 
-- MongoDB (Nosql)
+- ### MongoDB (Nosql)
 ## 3 : Show all required diagrams and explain them.
 
 ## 4 : Show your github project page
