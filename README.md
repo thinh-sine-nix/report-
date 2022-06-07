@@ -78,6 +78,25 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### Which features are completed
 
+Our project is built on the inspiration from some big commercial website with some similar modules, such as:
+
+-	In the Home page, we have a lot of information about the product and the producer. Along with that, we have a search box based on title, author in the middle of the page to help us easily find the desired product information. 
+
+-	Search Feature: In our project, this function will work directly on the main page with the resources sorted. It uses key word, title, author to search. It returns a list of related results and attachments.
+
+-	Login & Register Module: Customers must go directly to the register page and enter their email, username and password to get an account. By having an account, customers can buy product easily by shopping online. 
+
+-	Add to Cart Feature: After choosing these products customers add them to cart and tend to the payment process. In cart part, customers could add a new product or delete these customers don’t want to buy.
+
+-	Order Feature: After adding these products to cart, customers will tend to the set Order process. In this process, customers must fill in their information likely: name, address, phone number, etc. After that, customers will choose the payment and shipping method. 
+
+-	Authentication & Verify Feature: After signing in into the system, the system will identify who you are. Are you Admin or a customer? 
+
+-   	If you are a customer: You just have permission to add, remove or update your product and profile.
+
+-    	If you are an administrator: You have permission to control all features in this website like add or remove the customers. Checking the stat of product through months or view the overview of the products, orders, and analytics.
+
+
 #### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
@@ -102,6 +121,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ### Which features are incompleted
+- Payment
+
+- Verify order by email 
+
+- Login with Facebook/Email 
 
 ### Future features if you want to developer further after the course
 The future work part show our efforts to improve the application more in the near future. Specifically, we will add a few more features to make it easier for users to use which will be mentioned below:
