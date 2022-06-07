@@ -85,6 +85,38 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## 3 : Show all required diagrams and explain them.
 
+### Use-cases Diagram
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/282758337_599843601208234_1411558220165391193_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ZgvzcmaWaaMAX-F03dq&tn=g8kKPy0vG35jwiCA&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJD0OLTxk0TXVjyBJnMNW85JvsSrVdGNMNQ5kH2jrfG9w&oe=62C41AE9)
+### Sequence Diagram
+#### Login
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/281319895_707342033717169_7164381762430633547_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=LjJUBcLXbEYAX8Yrc_G&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVID2Q7AjQ_p-A7VpT8VB4a1F6kTsAcFn4GheYHuA2RqRw&oe=62C6056C)
+
+#### Search Product
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/280563617_833973524241226_6038867098382217189_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=GfVDHgYuhigAX-vazCh&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJqeFqxfcLW2Nd0fTWGoCA10whLVEazGHvG5CYrk0m32g&oe=62C6B240)
+
+#### Add product to cart
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/284584551_702080657678864_2397706853219855142_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=nX2BPB0po1sAX8tGIEm&_nc_oc=AQnDJDTISTF3isj8Ezs1PTkcWNjaHepsxOrRzdcjitipA6JP_7QK7XfV1Dank1PxtmIXSF0A4G5MbrfZa_rNlVdK&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVKmLyDS7M6yzWaHgB7bzron04BSnTSSny-ySL-vOM3OZA&oe=62C3D9E5)
+
+#### Confirm order
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/280052315_542878054138392_1884535759086597951_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xCgZ6CW_BtwAX-BFQfF&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVK9VTRAS6xi_BgTh_Gwucin1G8lWMP6ERqgKplPaCCEcg&oe=62C57F5A)
+
+#### Admin edit product information
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/281118365_759371121730050_8042078347225245156_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=MyLSgFQV3joAX9kPVKy&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVLd-R3gkOXY_9geg00t-AvP7sokfVxslubKf8zdw_hZDw&oe=62C3C0EF)
+
+#### Admin check order 
+
+![Tên ảnh](https://scontent.fsgn16-1.fna.fbcdn.net/v/t1.15752-9/282459159_1010030046546044_8809318648503707249_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=__FmOT4SPtsAX8XNQUQ&_nc_oc=AQk-Ixhi5KQGSyaLbG0iC3zr0i0lDoi1VstCrwFHb3B3R2WqS0rGlBp0gj7qwskr-E_Wo_uyiq09bZBFbK4wh9he&tn=g8kKPy0vG35jwiCA&_nc_ht=scontent.fsgn16-1.fna&oh=03_AVJ7wbT51TRm6nyAdICSwUV7kHIE6fjAGIhRrNFs0T3ORA&oe=62C5C574)
+
+### Class Diagram
+
+### Activity Diagram
+
 ## 4 : Show your github project page
 ### README (the report)
 
