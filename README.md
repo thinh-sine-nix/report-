@@ -101,6 +101,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Which features are incompleted
 
 ### Future features if you want to developer further after the course
+The future work part show our efforts to improve the application more in the near future. Specifically, we will add a few more features to make it easier for users to use which will be mentioned below:
+
+-     More payment method: Payment with Paypal will be added to the website since paying with PayPal gives you an extra level of security and fraud prevention. If you pay for a purchase using PayPal that ends up being fraudulent, PayPal can help get your money back.
+-     Verify order by email: In order to confirm that your order was successful, confirmation and important information will be sent directly to your email and gives you directions for the next steps just with one click.
+
+-     Login with Facebook/Email: To save time for users not having to create new accounts. Login by Facebook or Email will be allowed. Really simple, fast and secured. Users wont need to remember another username/password
 
 ## 6 : Discuss challenges in the project.
 
