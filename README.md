@@ -92,9 +92,9 @@ Our project is built on the inspiration from some big commercial website with so
 
 -	Authentication & Verify Feature: After signing in into the system, the system will identify who you are. Are you Admin or a customer? 
 
--   	If you are a customer: You just have permission to add, remove or update your product and profile.
+   	- If you are a customer: You just have permission to add, remove or update your product and profile.
 
--    	If you are an administrator: You have permission to control all features in this website like add or remove the customers. Checking the stat of product through months or view the overview of the products, orders, and analytics.
+ 	- If you are an administrator: You have permission to control all features in this website like add or remove the customers. Checking the stat of product through months or view the overview of the products, orders, and analytics.
 
 
 #### Code Splitting
