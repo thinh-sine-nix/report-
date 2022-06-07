@@ -74,11 +74,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## 5 : Feature
 
 ### Which features are completed
-#### Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 #### Code Splitting
 
@@ -114,3 +109,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 8 : What have you learned?
 
+### Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
